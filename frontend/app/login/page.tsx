@@ -126,7 +126,7 @@ export default function LoginPage() {
 
         <CardFooter className="justify-center border-t border-stone-100 py-4">
           <p className="text-sm text-stone-500">
-            Don't have an account?{" "}
+            Don&apos;t have an account?{" "}
             <Link href="/register" className="font-medium text-stone-900 hover:underline">
               Sign Up
             </Link>
